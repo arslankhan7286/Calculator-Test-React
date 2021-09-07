@@ -1,0 +1,15 @@
+.result{
+    height: auto;
+    min-height: 100px;
+    overflow: hidden;
+}
+.result p{
+    text-align: right;
+    color: #ffffff;
+    font-size: 55px;
+    font-weight: 200;
+    padding-right: 5px;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

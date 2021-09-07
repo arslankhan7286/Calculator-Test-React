@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+.main{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.calculator-body{
+  width: 20rem;
+  margin: 0 auto;
+  background-color: black;
+  border: 1px solid #000;
+}
